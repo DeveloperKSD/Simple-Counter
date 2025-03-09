@@ -30,3 +30,5 @@ Smooth transitions for button interactions ✨
 
 View the website here - 
 https://developerksd.github.io/Simple-Counter/
+
+This README used to be a normal file, then it took an arrow to the knee. ⚔️
