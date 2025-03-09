@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 50px;
+}
+#counter {
+    font-size: 3rem;
+    margin: 20px;
+}
+button {
+    font-size: 1.2rem;
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+    
+
