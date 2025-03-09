@@ -16,11 +16,9 @@ script.js – JavaScript logic for counting.
 
 🛠 How It Works:
 
-Listens for button clicks using addEventListener().
+Listens for button clicks using onclick().
 
 Updates the counter dynamically in real time.
-
-Ensures the count doesn't go below zero (optional rule).
 
 🎨 Styling Highlights:
 
@@ -29,3 +27,6 @@ Big, readable numbers 📊
 Clickable buttons with hover effects 🎨
 
 Smooth transitions for button interactions ✨
+
+View the website here - 
+https://developerksd.github.io/Simple-Counter/
